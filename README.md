@@ -4,8 +4,6 @@ Automated multi-account Google Calendar synchronization with deduplication and t
 🚀 Overview
 A high-performance Google Apps Script that creates a real-time "Availability Mesh" across multiple Google accounts. It ensures that if you are busy on one calendar, you are marked as "Busy" on all others—without the clutter of duplicate event details or manual syncing.
 
-"Figured I'd spend a few hours rather than using an online tool." — The developer's mantra.
-
 ✨ Features
 Intersection-Aware Sync: Smart logic that handles overlapping meetings. It ensures full coverage even if meetings start or end at different times.
 
